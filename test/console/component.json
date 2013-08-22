@@ -1,0 +1,5 @@
+{
+  "name": "canvas-test",
+  "paths": ["../../.."],
+  "local": ["canvas"]
+}

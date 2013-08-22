@@ -8,8 +8,9 @@
   "scripts": [
     "index.js",
     "lib/canvas.js",
-    "lib/body.js",
-    "lib/velocity.js",
-    "lib/acceleration.js"
+    "lib/layer.js",
+    "lib/layergroup.js",
+    "lib/imageview.js",
+    "lib/drawable.js"
   ]
 }
